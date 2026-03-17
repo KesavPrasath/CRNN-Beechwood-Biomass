@@ -1,2 +1,2 @@
 # CRNN-Biomass
-Modelling Biomass Pyrolysis with catalytic and diffusion effects in Julia
+Autonomous Discovery of the Kinetic Reaction Pathway for Beechwood using CRNN-ODE
