@@ -1,0 +1,23 @@
+expr_name: Lid-6s7r1c-03
+is_restart: false
+ns: 6
+nr: 5
+nc: 1
+
+lb: 1.e-8
+n_epoch: 1500
+n_plot: 10
+grad_max: 1.e2
+maxiters: 10000
+
+lr_max: 1.e-4
+lr_min: 1.e-5
+lr_decay: 0.5
+lr_decay_step: 500
+w_decay: 1.e-8
+
+# lr_min: 1e-4 keeping learning rate higher-faster updates
+# lr_decay_step: 1000 
+# grad_max: 150
+# n_epoch: 1500
+# maxiters: 5000
