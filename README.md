@@ -1,2 +1,2 @@
-# CRNN-Biomass
-Autonomous Discovery of the Kinetic Reaction Pathway for Beechwood using CRNN-ODE
+# Autonomous Discovery of the Kinetic Reaction Pathway for Beechwood using CRNN-ODE
+This work applies a data driven Chemical Reaction Neural Network (CRNN) approach solving as ordinary differential equations (ODEs) to uncover reaction mechanisms and pathways for beechwood pyrolysis and its constituents (xylan, cellulose, lignin). Mass action laws and Modified Arrhenius kinetics constrain the network becoming the loss functions, to derive the kinetic parameters. Thermogravimetric analysis (TGA) data under catalytic and non catalytic conditions, varied heating rates (2.5, 5, 10 K/min), initial masses (5, 20 mg), and lid configurations are used to perform this scientific study. Individual models are compared and unified into a generalized, validated predictive framework outperforming conventional fitting.
